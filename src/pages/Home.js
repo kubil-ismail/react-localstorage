@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import store from 'store2'
 import { Container, Row, Col } from 'react-bootstrap';
 
 export default class Home extends Component {
